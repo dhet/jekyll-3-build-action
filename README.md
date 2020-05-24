@@ -1,4 +1,7 @@
-# jekyll-build-action
+# jekyll-3-build-action
+
+> For projects which are for one reason or another are bound to Jekyll 3
+
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets.
 
 # Usage
